@@ -1,3 +1,7 @@
+### ideas to extend:
+
+- try adding an overlay of crowd-sourced rankings from [untappd](https://untappd.com/), [berradvocate](https://www.beeradvocate.com/beer/style/), [ratebeer](https://www.ratebeer.com/search) to the dataset and clusters and see if narrows the distribution ranges of the clusters/increases the model accuracy, yay more scraping
+
 #### Overview
 
 This is a preliminary, strictly for-fun foray into beer data. Pairs well with most session IPAs.
